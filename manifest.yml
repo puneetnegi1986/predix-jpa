@@ -1,0 +1,8 @@
+---
+applications:
+  - name: predix_jpa_app1986
+    buildpack: java_buildpack
+    path: target/predix_jpa_app1986-1.0.0.jar
+services:
+    - postgresql-birlasoft-server
+    - puneet.redis.service

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Data JPA Sample
+Implementation-Version: 1.0.0
+Built-By: puneet.negi
+Implementation-Vendor-Id: com.ge.predix.labs
+Build-Jdk: 1.8.0_66
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Predix
+Main-Class: com.ge.predix.labs.data.jpa.Application
+

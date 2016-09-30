@@ -1,0 +1,8 @@
+com\ge\predix\labs\data\jpa\config\CloudFoundryDataSourceConfiguration.class
+com\ge\predix\labs\data\jpa\CorsFilter.class
+com\ge\predix\labs\data\jpa\web\CacheController.class
+com\ge\predix\labs\data\jpa\web\CustomerApiController.class
+com\ge\predix\labs\data\jpa\Application.class
+com\ge\predix\labs\data\jpa\config\ServicesConfiguration.class
+com\ge\predix\labs\data\jpa\service\CustomerService.class
+com\ge\predix\labs\data\jpa\domain\Customer.class
